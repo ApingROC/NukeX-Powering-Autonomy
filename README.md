@@ -73,3 +73,5 @@ Everything needed for resilience in the next energy paradigm.
 The Brand
 
 NukeX captures the urgency and autonomy of a new energy era
+
+![NukeX Logo](assets/FE4A1247-75F2-43CA-839F-B454FEA3B906.png)
